@@ -19,6 +19,7 @@ namespace GeradorDeSenhas
             }
 
             Console.WriteLine("Senha gerada: " + new string(senha));
+            Console.WriteLine("Aproveite!!!");
         }
     }
 }
