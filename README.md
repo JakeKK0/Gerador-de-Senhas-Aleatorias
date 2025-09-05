@@ -1,1 +1,2 @@
 Esse simples projeto serve para criar senhas aleatórias baseadas no número de caracteres que o usuário mandar.
+Para usar o programa siga os seguintes passos: Ao ver a seguinte mensagem, "Quantos caracteres a senha deve ter?", digite a quantidade de caracteres que você quer na sua senha, EX: 5. Depois pressione "Enter" para a sua senha ser gerada.
