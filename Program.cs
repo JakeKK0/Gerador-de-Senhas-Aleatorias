@@ -20,6 +20,7 @@ namespace GeradorDeSenhas
 
             Console.WriteLine("Senha gerada: " + new string(senha));
             Console.WriteLine("Aproveite!!!");
+            Console.WriteLine("Pau nas do job");
         }
     }
 }
