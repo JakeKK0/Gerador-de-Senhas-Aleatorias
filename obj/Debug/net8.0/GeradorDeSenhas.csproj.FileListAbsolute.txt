@@ -1,0 +1,15 @@
+/workspaces/Gerador-de-Senhas-Aleatorias/bin/Debug/net8.0/GeradorDeSenhas
+/workspaces/Gerador-de-Senhas-Aleatorias/bin/Debug/net8.0/GeradorDeSenhas.deps.json
+/workspaces/Gerador-de-Senhas-Aleatorias/bin/Debug/net8.0/GeradorDeSenhas.runtimeconfig.json
+/workspaces/Gerador-de-Senhas-Aleatorias/bin/Debug/net8.0/GeradorDeSenhas.dll
+/workspaces/Gerador-de-Senhas-Aleatorias/bin/Debug/net8.0/GeradorDeSenhas.pdb
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.AssemblyInfoInputs.cache
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.AssemblyInfo.cs
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.csproj.CoreCompileInputs.cache
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.sourcelink.json
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.dll
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/refint/GeradorDeSenhas.dll
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.pdb
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/GeradorDeSenhas.genruntimeconfig.cache
+/workspaces/Gerador-de-Senhas-Aleatorias/obj/Debug/net8.0/ref/GeradorDeSenhas.dll
